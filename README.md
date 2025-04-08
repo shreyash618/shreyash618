@@ -27,8 +27,9 @@ I'm a Computer Science student at Rutgers, brewing up some magic with code! 🧙
 - 📚 Favorite book: "Children of Blood and Bone"
 - 🌟 Dream project: Building an app that helps people learn new languages through music.
 
-## 🎨 My GitHub Stats
+<!--## 🎨 My GitHub Stats
 ![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyash618&show_icons=true&theme=radical)
+-->
 
 ## 📂 Check Out My Repos!
 > Here’s where I keep my sparks of creativity—feel free to explore and drop a ⭐ if you like something!
