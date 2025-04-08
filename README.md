@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **shreyash618/shreyash618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there, I'm Shreya! 👋🎀
+
+## 🌸 About Me
+I'm a Computer Science student at Rutgers, brewing up some magic with code! 🧙‍♀️💻
+
+## 🌈 My Coding Journey
+- 🔭 I’m currently working on a magical project using React and Python!
+- 🌱 I’m currently learning more about cloud services and artificial intelligence.
+- 📫 How to reach me: [LinkedIn](your-linkedin) | [Twitter](your-twitter)
+
+## ✨ Quick Facts
+- 🍿 Fun fact: I love Korean dramas and biking around campus!
+- 📚 Favorite book: "Children of Blood and Bone"
+- 🌟 Dream project: Building an app that helps people learn new languages through music.
+
+## 🎨 My GitHub Stats
+![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+## 📂 Check Out My Repos!
+> Here’s where I keep my sparks of creativity—feel free to explore and drop a ⭐ if you like something!
+
+## 💌 Let's Connect!
+Feel free to reach out for collaborations or just a friendly chat about all things tech and fantasy series!
