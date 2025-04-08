@@ -20,7 +20,7 @@ I'm a Computer Science student at Rutgers, brewing up some magic with code! 🧙
 ## 🌈 My Coding Journey
 - 🔭 I’m currently working on a magical project using React and Python!
 - 🌱 I’m currently learning more about cloud services and artificial intelligence.
-- 📫 How to reach me: [LinkedIn](your-linkedin) | [Twitter](your-twitter)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shreya-shukla-8bb812165/) | [Email](shreyash618@gmail.com)
 
 ## ✨ Quick Facts
 - 🍿 Fun fact: I love Korean dramas and biking around campus!
