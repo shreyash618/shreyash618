@@ -24,7 +24,7 @@ I'm a Computer Science student at Rutgers, brewing up some magic with code! 🧙
 
 ## ✨ Quick Facts
 - 🍿 Fun fact: I love to travel, play video games and watch kdramas.
-- 📚 Favorite book: "Children of Blood and Bone"
+- 📚 Favorite book: "Murder on the Orient Express"
 - 🌟 Dream project: Building an app that helps people learn new languages through music.
 
 <!--## 🎨 My GitHub Stats
