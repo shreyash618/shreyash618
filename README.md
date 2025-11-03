@@ -23,7 +23,7 @@ I'm a Computer Science student at Rutgers, brewing up some magic with code! 🧙
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shreya-shukla-8bb812165/)
 
 ## ✨ Quick Facts
-- 🍿 Fun fact: I love Korean dramas and biking around campus!
+- 🍿 Fun fact: I love to travel, play video games and watch kdramas.
 - 📚 Favorite book: "Children of Blood and Bone"
 - 🌟 Dream project: Building an app that helps people learn new languages through music.
 
