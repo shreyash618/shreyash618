@@ -35,4 +35,4 @@ I'm a Computer Science student at Rutgers, brewing up some magic with code! 🧙
 > Here’s where I keep my sparks of creativity—feel free to explore and drop a ⭐ if you like something!
 
 ## 💌 Let's Connect!
-Feel free to reach out for collaborations or just a friendly chat about all things tech and fantasy series!
+Feel free to reach out for collaborations or just a friendly chat!
