@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 # Hi there, I'm Shreya! 👋🎀
 
 ## 🌸 About Me
-I'm a Computer Science student at Rutgers, brewing up some magic with code! 🧙‍♀️💻
+I'm a Computer Science student at Rutgers, working on solving real world problems with code! 🧙‍♀️💻
 
 ## 🌈 My Coding Journey
-- 🔭 I’m currently working on a magical project using React and Python!
+- 🔭 I’m currently working on a project using React and Python!
 - 🌱 I’m currently learning more about cloud services and artificial intelligence.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shreya-shukla-8bb812165/)
 
 ## ✨ Quick Facts
 - 🍿 Fun fact: I love to travel, play video games and watch kdramas.
 - 📚 Favorite book: "Murder on the Orient Express"
-- 🌟 Dream project: Building an app that helps people learn new languages through music.
+- 🌟 Dream project: Building an app that helps people learn new languages through games.
 
 <!--## 🎨 My GitHub Stats
 ![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyash618&show_icons=true&theme=radical)
