@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 I'm someone who really enjoys science and math. Although I'm a Computer Science Major, I'm interested in exploring software engineering applications in Robotics, Aeronatuics and Medicine. My favorite subjects are cancer research, physics and calculus. 
+-->
 # Hi there, I'm Shreya! 👋🎀
 
 ## 🌸 About Me
